@@ -1,1 +1,1 @@
-# iot-discovery
+# iot
